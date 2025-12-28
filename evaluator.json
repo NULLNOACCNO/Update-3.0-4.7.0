@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "name": "الذكاء الصناعي",
+        "icon": "<svg viewBox=\"0 0 24 24\"><path d=\"M12 2a2 2 0 00-2 2v2a2 2 0 01-2 2H6a2 2 0 00-2 2v2a2 2 0 01-2 2H0v4h2a2 2 0 012-2v2a2 2 0 002 2h2a2 2 0 012 2v2a2 2 0 004 0v-2a2 2 0 012-2h2a2 2 0 002-2v-2a2 2 0 012 2h2v-4h-2a2 2 0 01-2-2v-2a2 2 0 00-2-2h-2a2 2 0 01-2-2V4a2 2 0 00-2-2z\" fill=\"var(--svg)\"/></svg>",
+        "popularity": "مسيطر عالمياً",
+        "date": "2026-01-01",
+        "apps": [
+            { "name": "Gemini (The King)", "rank": 1 },
+            { "name": "HACERYOUDIE AI (Sopers)", "rank": 2 },
+            { "name": "Grok", "rank": 3 },
+            { "name": "ChatGPT", "rank": 4 },
+            { "name": "DeepSeek", "rank": 5 },
+            { "name": "Claude", "rank": 6 },
+            { "name": "Qwen", "rank": 7 },
+            { "name": "Perplexity", "rank": 8 }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "الألعاب",
+        "icon": "<svg viewBox=\"0 0 24 24\"><path d=\"M21 6H3c-1.1 0-2 .9-2 2v8c0 1.1.9 2 2 2h18c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2zm-10 7H8v3H6v-3H3v-2h3V8h2v3h3v2zm4.5 2c-.55 0-1-.45-1-1s.45-1 1-1 1 .45 1 1-.45 1-1 1zm3.5-2c-.55 0-1-.45-1-1s.45-1 1-1 1 .45 1 1-.45 1-1 1z\" fill=\"var(--svg)\"/></svg>",
+        "popularity": "انفجار في عدد اللاعبين",
+        "date": "2026-01-15",
+        "apps": [
+            { "name": "GTA VI (Official Release)", "rank": 1 },
+            { "name": "Minecraft 2.0", "rank": 2 },
+            { "name": "PUBG Mobile 2", "rank": 3 },
+            { "name": "Chess.com AI Edition", "rank": 4 },
+            { "name": "Counter-Strike NEXT", "rank": 5 },
+            { "name": "Free Fire Max+", "rank": 6 },
+            { "name": "Rolling Sky High", "rank": 7 },
+            { "name": "Bouncemasters Ultra", "rank": 8 }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "التواصل الاجتماعي",
+        "icon": "<svg viewBox=\"0 0 24 24\"><path d=\"M20 2H4c-1.1 0-1.99.9-1.99 2L2 22l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm-10 7H8v3H6v-3H3v-2h3V8h2v3h3v2zm4.5 2c-.55 0-1-.45-1-1s.45-1 1-1 1 .45 1 1-.45 1-1 1zm3.5-2c-.55 0-1-.45-1-1s.45-1 1-1 1 .45 1 1-.45 1-1 1z\" fill=\"var(--svg)\"/></svg>",
+        "popularity": "تواصل فائق السرعة",
+        "date": "2026-02-10",
+        "apps": [
+            { "name": "YouTube VR", "rank": 1 },
+            { "name": "TikTok Meta", "rank": 2 },
+            { "name": "Instagram AI", "rank": 3 },
+            { "name": "WhatsApp Global", "rank": 4 },
+            { "name": "X (Everything App)", "rank": 5 },
+            { "name": "Facebook Connect", "rank": 6 },
+            { "name": "Snapchat Reality", "rank": 7 },
+            { "name": "Messenger Lite+", "rank": 8 }
+        ]
+    }
+]

@@ -1,0 +1,155 @@
+[
+    {
+        "id": 1,
+        "name": "الذكاء الصناعي",
+        "icon": "<svg viewBox=\"0 0 24 24\"><path d=\"M12 2a2 2 0 00-2 2v2a2 2 0 01-2 2H6a2 2 0 00-2 2v2a2 2 0 01-2 2H0v4h2a2 2 0 012-2v2a2 2 0 002 2h2a2 2 0 012 2v2a2 2 0 004 0v-2a2 2 0 012-2h2a2 2 0 002-2v-2a2 2 0 012 2h2v-4h-2a2 2 0 01-2-2v-2a2 2 0 00-2-2h-2a2 2 0 01-2-2V4a2 2 0 00-2-2z\" fill=\"var(--svg)\"/></svg>",
+        "popularity": "مسيطر عالمياً",
+        "date": "2026-01-01",
+        "apps": [
+            { "name": "Gemini Ultra 2026", "rank": 1, "url": "https://gemini.google.com" },
+            { "name": "HACERYOUDIE AI (Sopers)", "rank": 2, "url": "https://a-haceryoudie.blogspot.com/p/haceryoudieai.html" },
+            { "name": "Grok 3", "rank": 3, "url": "https://x.ai" },
+            { "name": "ChatGPT 5", "rank": 4, "url": "https://chatgpt.com" },
+            { "name": "DeepSeek Pro", "rank": 5, "url": "https://www.deepseek.com" },
+            { "name": "Claude 4", "rank": 6, "url": "https://claude.ai" },
+            { "name": "Qwen Ultra", "rank": 7, "url": "https://chat.qwenlm.ai" },
+            { "name": "Copilot Next", "rank": 8, "url": "https://copilot.microsoft.com" }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "الألعاب",
+        "icon": "<svg viewBox=\"0 0 24 24\"><path d=\"M21 6H3c-1.1 0-2 .9-2 2v8c0 1.1.9 2 2 2h18c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2zm-10 7H8v3H6v-3H3v-2h3V8h2v3h3v2zm4.5 2c-.55 0-1-.45-1-1s.45-1 1-1 1 .45 1 1-.45 1-1 1zm3.5-2c-.55 0-1-.45-1-1s.45-1 1-1 1 .45 1 1-.45 1-1 1z\" fill=\"var(--svg)\"/></svg>",
+        "popularity": "أرقام قياسية",
+        "date": "2026-01-15",
+        "apps": [
+            { "name": "GTA VI", "rank": 1, "url": "https://www.rockstargames.com/VI" },
+            { "name": "Minecraft VR", "rank": 2, "url": "https://www.minecraft.net" },
+            { "name": "PUBG Mobile 2", "rank": 3, "url": "https://www.pubgmobile.com" },
+            { "name": "Chess.com Pro", "rank": 4, "url": "https://www.chess.com" },
+            { "name": "Free Fire Max 2", "rank": 5, "url": "https://ff.garena.com" },
+            { "name": "Counter-Strike Global", "rank": 6, "url": "https://www.counter-strike.net" },
+            { "name": "Rolling Sky 2", "rank": 7, "url": "https://play.google.com/store/apps/details?id=com.cmplay.rollingsky" },
+            { "name": "Bouncemasters AI", "rank": 8, "url": "https://play.google.com/store/apps/details?id=com.playgendary.bouncemasters" }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "التواصل الاجتماعي",
+        "icon": "<svg viewBox=\"0 0 24 24\"><path d=\"M20 2H4c-1.1 0-1.99.9-1.99 2L2 22l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm-7 9h-2v2h2v-2zm0-4h-2v2h2V7z\" fill=\"var(--svg)\"/></svg>",
+        "popularity": "ترند مستمر",
+        "date": "2026-02-10",
+        "apps": [
+            { "name": "YouTube", "rank": 1, "url": "https://www.youtube.com" },
+            { "name": "TikTok Plus", "rank": 2, "url": "https://www.tiktok.com" },
+            { "name": "Instagram AI", "rank": 3, "url": "https://www.instagram.com" },
+            { "name": "WhatsApp", "rank": 4, "url": "https://www.whatsapp.com" },
+            { "name": "X (The Everything App)", "rank": 5, "url": "https://x.com" },
+            { "name": "Messenger", "rank": 6, "url": "https://www.messenger.com" },
+            { "name": "Snapchat Reality", "rank": 7, "url": "https://www.snapchat.com" },
+            { "name": "Facebook", "rank": 8, "url": "https://www.facebook.com" }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "المونتاج السينمائي",
+        "icon": "<svg viewBox=\"0 0 24 24\"><path d=\"M3 17v2h6v-2H3zM3 5v2h10V5H3zm10 16v-2h8v-2h-8v-2h-2v6h2zM7 9v2H3v2h4v2h2V9H7zm14 4v-2H11v2h10zm-6-4h2V7h4V5h-4V3h-2v6z\" fill=\"var(--svg)\"/></svg>",
+        "popularity": "مونتاج ذكي",
+        "date": "2026-03-01",
+        "apps": [
+            { "name": "CapCut AI 2026", "rank": 1, "url": "https://www.capcut.com" },
+            { "name": "Alight Motion Pro", "rank": 2, "url": "https://alightmotion.com" },
+            { "name": "InShot Next", "rank": 3, "url": "https://inshot.com" },
+            { "name": "Filmora Super", "rank": 4, "url": "https://filmora.wondershare.com" },
+            { "name": "KineMaster Gold", "rank": 5, "url": "https://kinemaster.com" },
+            { "name": "Veed Studio", "rank": 6, "url": "https://www.veed.io" },
+            { "name": "Adobe Premiere Rush 2", "rank": 7, "url": "https://www.adobe.com/products/premiere-rush.html" },
+            { "name": "Shotcut", "rank": 8, "url": "https://shotcut.org" }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "الصوتيات",
+        "icon": "<svg viewBox=\"0 0 24 24\"><path d=\"M12 3v10.55c-.59-.34-1.27-.55-2-.55-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4V7h4V3h-6z\" fill=\"var(--svg)\"/></svg>",
+        "popularity": "دقة 8K",
+        "date": "2026-03-15",
+        "apps": [
+            { "name": "Spotify AI", "rank": 1, "url": "https://www.spotify.com" },
+            { "name": "FL Studio Mobile 2", "rank": 2, "url": "https://www.image-line.com/fl-studio-mobile/" },
+            { "name": "SuperSound Pro", "rank": 3, "url": "https://play.google.com/store/apps/details?id=com.cool.soundeditor" },
+            { "name": "WaveEditor", "rank": 4, "url": "https://play.google.com/store/apps/details?id=io.sbaud.wavestudio" },
+            { "name": "Audacity Mobile", "rank": 5, "url": "https://www.audacityteam.org" },
+            { "name": "GarageBand Next", "rank": 6, "url": "https://www.apple.com/ios/garageband/" },
+            { "name": "MP3 Converter AI", "rank": 7, "url": "https://play.google.com/store/apps/details?id=com.pamsys.mp3video.converter" },
+            { "name": "Walk Band", "rank": 8, "url": "https://play.google.com/store/apps/details?id=com.gamestar.pianoperfect" }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "الرسم الرقمي",
+        "icon": "<svg viewBox=\"0 0 24 24\"><path d=\"M7 14c-1.66 0-3 1.34-3 3 0 1.31-1.16 2-2 2 .92 1.22 2.49 2 4 2 2.21 0 4-1.79 4-4 0-1.66-1.34-3-3-3zm13.71-9.37l-1.34-1.34a.996.996 0 00-1.41 0L9 12.25 11.75 15l8.96-8.96a.996.996 0 000-1.41z\" fill=\"var(--svg)\"/></svg>",
+        "popularity": "إبداع بلا حدود",
+        "date": "2026-04-01",
+        "apps": [
+            { "name": "Canva AI Magic", "rank": 1, "url": "https://www.canva.com" },
+            { "name": "Procreate Dreams", "rank": 2, "url": "https://procreate.com/dreams" },
+            { "name": "PicsArt Ultra", "rank": 3, "url": "https://picsart.com" },
+            { "name": "PixelLab Next", "rank": 4, "url": "https://play.google.com/store/apps/details?id=com.imaginstudio.imagetools.pixellab" },
+            { "name": "Sketch Pro", "rank": 5, "url": "https://www.sketch.com" },
+            { "name": "Adobe Fresco", "rank": 6, "url": "https://www.adobe.com/products/fresco.html" },
+            { "name": "Clip Studio Paint 3", "rank": 7, "url": "https://www.clipstudio.net/en/" },
+            { "name": "Retouch AI", "rank": 8, "url": "https://play.google.com/store/apps/details?id=com.advasoft.touchretouch" }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "الرسوم المتحركة",
+        "icon": "<svg viewBox=\"0 0 24 24\"><path d=\"M4 2v20h16V2H4zm14 18H6V4h12v16zm-2-10h-4v4h4v-4z\" fill=\"var(--svg)\"/></svg>",
+        "popularity": "ثورة الـ 3D",
+        "date": "2026-04-15",
+        "apps": [
+            { "name": "Blender Mobile 2026", "rank": 1, "url": "https://www.blender.org" },
+            { "name": "Reason 3D AI", "rank": 2, "url": "https://www.reason.com" },
+            { "name": "FlipaClip Pro", "rank": 3, "url": "https://flipaclip.com" },
+            { "name": "Plotagon Next", "rank": 4, "url": "https://www.plotagon.com" },
+            { "name": "Prisma 2", "rank": 5, "url": "https://prisma-ai.com" },
+            { "name": "ToonMe AI", "rank": 6, "url": "https://toonme.com" },
+            { "name": "AnimeMaker", "rank": 7, "url": "https://play.google.com/store/apps/details?id=jp.ne.ibis.ibispaintx.app" },
+            { "name": "Animator Ultra", "rank": 8, "url": "https://www.adobe.com/express/feature/video/animate/audio" }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "المتصفحات",
+        "icon": "<svg viewBox=\"0 0 24 24\"><path d=\"M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.22-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8V7h2c.55 0 1-.45 1-1V5h2c1.1 0 2-.9 2-2v-.41C17.92 5.77 20 9.65 20 14c0 2.08-.81 3.98-2.1 5.39z\" fill=\"var(--svg)\"/></svg>",
+        "popularity": "تصفح فضائي",
+        "date": "2026-05-01",
+        "apps": [
+            { "name": "Chrome AI", "rank": 1, "url": "https://www.google.com/chrome" },
+            { "name": "Brave Fast", "rank": 2, "url": "https://brave.com" },
+            { "name": "Microsoft Edge 2", "rank": 3, "url": "https://www.microsoft.com/edge" },
+            { "name": "Opera Crypto", "rank": 4, "url": "https://www.opera.com/crypto" },
+            { "name": "Safari Pro", "rank": 5, "url": "https://www.apple.com/safari" },
+            { "name": "Firefox Next", "rank": 6, "url": "https://www.mozilla.org/firefox" },
+            { "name": "Tor Browser 2", "rank": 7, "url": "https://www.torproject.org" },
+            { "name": "UC Browser X", "rank": 8, "url": "https://www.ucweb.com" }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "المتاجر",
+        "icon": "<svg viewBox=\"0 0 24 24\"><path d=\"M7 18c-1.1 0-1.99.9-1.99 2S5.9 22 7 22s2-.9 2-2-.9-2-2-2zM17 18c-1.1 0-1.99.9-1.99 2s.89 2 1.99 2 2-.9 2-2-.9-2-2-2zM8.1 13h7.45c.75 0 1.41-.41 1.75-1.03l3.86-7.01L19.42 4l-3.86 7H8.53L4.27 2H1v2h2l3.6 7.59-1.35 2.44C4.52 15.37 5.48 17 7 17h12v-2H7l1.1-2z\" fill=\"var(--svg)\"/></svg>",
+        "popularity": "متاجر مفتوحة",
+        "date": "2026-05-15",
+        "apps": [
+            { "name": "Google Play 2.0", "rank": 1, "url": "https://play.google.com" },
+            { "name": "LiteAPKs VIP", "rank": 2, "url": "https://liteapks.com" },
+            { "name": "Uptodown Ultra", "rank": 3, "url": "https://www.uptodown.com" },
+            { "name": "APKDone Next", "rank": 4, "url": "https://apkdone.com" },
+            { "name": "APKPure Pro", "rank": 5, "url": "https://apkpure.com" },
+            { "name": "Aptoide AI", "rank": 6, "url": "https://www.aptoide.com" },
+            { "name": "F-Droid", "rank": 7, "url": "https://f-droid.org" },
+            { "name": "APKMirror", "rank": 8, "url": "https://www.apkmirror.com" }
+        ]
+    }
+]
